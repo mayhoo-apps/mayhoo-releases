@@ -32,3 +32,4 @@ One line (and one commit) per release. Tags start with the UTC date and time so 
 - 2026-11-24T14:22:49Z 20261124-1422-casino-v0.6
 - 2026-11-24T14:25:10Z 20261124-1425-casino-v0.7
 - 2026-11-24T14:26:05Z 20261124-1426-casino-v0.8
+- 2026-11-24T14:27:57Z 20261124-1427-casino-v0.9
