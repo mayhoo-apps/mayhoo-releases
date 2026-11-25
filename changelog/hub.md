@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.20 (2026-11-25)
+- Sound effects across every app, with a Settings switch
+- Settings: one big 'get all our games with Mayhoo Hub', then a compact list
+
 ## 0.19 (2026-11-25)
 - Settings: one big 'get all our games with Mayhoo Hub', then a compact list
 - Mayhoo Puzzles: Tracks and Pipes
