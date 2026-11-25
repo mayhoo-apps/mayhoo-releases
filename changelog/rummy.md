@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.56 (2026-11-25)
+- Bring back the faint game name on the felt, alongside the title strip
+
 ## 0.55 (2026-11-25)
 - Game name in a slim title strip above the table, not under the cards
 - Rummy 500: the card you must use from the discard pile stays selected
