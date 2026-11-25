@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.24 (2026-11-25)
+- Tile art redrawn in one style; richer tile design
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+
 ## 0.23 (2026-11-25)
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
 - Hub: a colorful grid of picture tiles instead of a wordy list
