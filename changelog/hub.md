@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.21 (2026-11-25)
+- Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
+- Bring back the faint game name on the felt, alongside the title strip
+- Game name in a slim title strip above the table, not under the cards
+- Sound effects across every app, with a Settings switch
+
 ## 0.20 (2026-11-25)
 - Sound effects across every app, with a Settings switch
 - Settings: one big 'get all our games with Mayhoo Hub', then a compact list
