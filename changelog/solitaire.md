@@ -1,0 +1,18 @@
+# Mayhoo Solitaire release notes
+
+Newest first. The app shows the notes for every version newer than the one you have.
+
+## 0.3 (2026-11-25)
+- Solitaire: drag and drop, tap-then-tap, landscape, buttons off the table
+- Mayhoo Puzzles with HootDoku
+- Print the game's name on the felt in every game
+- People cast for the grown-up tables; animals become the Kids cast
+- Mayhoo cast: 20 animal characters with fixed names and faces drawn in code, seated in every card game
+- Updates: Hub checks all apps (games only check themselves without the Hub), notes for every version you skipped; release.sh writes changelog/<app>.md and keeps 3 releases per app
+- Mayhoo Solitaire app: Klondike (draw 1/3) and FreeCell (classic deal numbers), tap to move, unlimited undo, owl hints, auto-finish
+- Phase Rummy in Mayhoo Rummy: our own 1-12 four-color deck with wilds and skips, ten phases, labeled phase slots, bots and owl
+- Spades in Mayhoo Cards: partners, bids and nil, spades trump, bags; owl suggests bids and plays
+- Mayhoo navy table and owl card backs by default; always-on Owl (double-tap or hold) gives a tip every turn
+- Casino craps: real table layout with come/don't come, place bets, big 6/8, hardways, props, horn, C&E, odds; owl explains house edge
+- Shared table looks: six table backgrounds and five card backs drawn in code; Hub sets the default, apps follow it or pick their own in Settings
+
