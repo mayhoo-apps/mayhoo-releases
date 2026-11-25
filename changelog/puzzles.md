@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.6 (2026-11-25)
+- HootDoku: a real owl hoots when you place an owl, and on a solve
+- HootDoku: color tiles, Auto-X, a cheerier daily finish
+
 ## 0.5 (2026-11-25)
 - HootDoku: color tiles, Auto-X, a cheerier daily finish
 - HootDoku: rules button in the button row, off the grid
