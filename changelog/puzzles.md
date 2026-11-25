@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.12 (2026-11-25)
+- HootDoku: Pencil mode for trying placements
+- HootDoku: deep spotted-owl whoo (NPS, public domain)
+
 ## 0.11 (2026-11-25)
 - HootDoku: deep spotted-owl whoo (NPS, public domain)
 - HootDoku: cleaner owl sounds
