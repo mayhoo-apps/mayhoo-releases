@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.34 (2026-11-25)
+- Roulette: livelier ball bounces (hit plus rebound, faster rim roll)
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+
 ## 0.33 (2026-11-25)
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
 - Roulette: the ball bounces over the frets instead of a clicker; quieter win tunes
