@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.9 (2026-11-25)
+- Solitaire sideways: piles and buttons move to the sides
+- Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
+
 ## 0.8 (2026-11-25)
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
 - Bring back the faint game name on the felt, alongside the title strip
