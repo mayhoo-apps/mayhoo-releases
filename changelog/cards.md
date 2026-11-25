@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.62 (2026-11-25)
+- Tile art redrawn in one style; richer tile design
+- Menus: tiles go straight into the game when there's only one choice
+
 ## 0.61 (2026-11-25)
 - Menus: tiles go straight into the game when there's only one choice
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
