@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.11 (2026-11-25)
+- HootDoku: deep spotted-owl whoo (NPS, public domain)
+- HootDoku: cleaner owl sounds
+
 ## 0.10 (2026-11-25)
 - HootDoku: cleaner owl sounds
 - Mayhoo Puzzles: Tracks and Pipes
