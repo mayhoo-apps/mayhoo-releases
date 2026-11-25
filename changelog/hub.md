@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.18 (2026-11-25)
+- Mayhoo Puzzles: Tracks and Pipes
+
 ## 0.17 (2026-11-25)
 - Solitaire: drag and drop, tap-then-tap, landscape, buttons off the table
 - Mayhoo Puzzles with HootDoku
