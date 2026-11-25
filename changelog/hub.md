@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.19 (2026-11-25)
+- Settings: one big 'get all our games with Mayhoo Hub', then a compact list
+- Mayhoo Puzzles: Tracks and Pipes
+
 ## 0.18 (2026-11-25)
 - Mayhoo Puzzles: Tracks and Pipes
 
