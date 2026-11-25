@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.10 (2026-11-25)
+- HootDoku: cleaner owl sounds
+- Mayhoo Puzzles: Tracks and Pipes
+
 ## 0.9 (2026-11-25)
 - Mayhoo Puzzles: Tracks and Pipes
 - HootDoku: Hint (owl) and rules (?) on the color-tile row above the grid
