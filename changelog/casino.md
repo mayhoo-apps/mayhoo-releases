@@ -1,0 +1,72 @@
+# Mayhoo Casino release notes
+
+Newest first. The app shows the notes for every version newer than the one you have.
+
+## 0.24 (2026-11-24)
+- Casino: chips come from and go back to the player at the bottom, not the bank label
+
+## 0.23 (2026-11-24)
+- Casino craps: dice thrown from the bottom, bounce twice with sound, spin at the top, then land
+
+## 0.22 (2026-11-24)
+- Mayhoo navy table and owl card backs by default; always-on Owl (double-tap or hold) gives a tip every turn
+
+## 0.21 (2026-11-24)
+- Casino blackjack: Hit always far left, Stand far right, Double/Split between
+
+## 0.20 (2026-11-24)
+- Casino blackjack: your chips sit on the table under each hand; doubles and splits add chips; winners paid and swept home, losers swept to the dealer
+
+## 0.19 (2026-11-24)
+- Casino blackjack: fix the dealer reveal replaying forever
+
+## 0.18 (2026-11-24)
+- Casino craps: real table layout with come/don't come, place bets, big 6/8, hardways, props, horn, C&E, odds; owl explains house edge
+
+## 0.16 (2026-11-24)
+- Paced reveals: craps dice land then bets settle (with dice sounds), slots pause before the result; Hub lists installed apps first
+
+## 0.15 (2026-11-24)
+- Casino blackjack: cards slide in from the shoe; dealer flips and draws one card at a time before the result
+
+## 0.14 (2026-11-24)
+- Release tags start with the UTC date-time so GitHub lists newest first; apps and release.sh understand both tag styles
+
+## 0.13 (2026-11-24)
+- Casino roulette: chips fly from the bank to the table, winners get paid on the spot and slide home, losers are swept away
+
+## 0.12 (2026-11-24)
+- Casino roulette: time-based ease so a spin takes about 4 seconds
+
+## 0.11 (2026-11-24)
+- Casino roulette: wheel slows to a crawl and stops on the result; big Spin button
+
+## 0.10 (2026-11-24)
+- Casino roulette: swipe a chip off to take the bet back
+
+## 0.9 (2026-11-24)
+- Casino roulette: inside bets (splits, streets, corners, six lines, 0-00-1-2-3) by tapping lines and corners
+
+## 0.8 (2026-11-24)
+- Casino roulette: chip clicks, ball ticking and drop, win jingles
+
+## 0.7 (2026-11-24)
+- Casino slots: recorded CC0 win jingles with coin drops and a chip-clack reel stop (credits in casino/CREDITS.md)
+
+## 0.6 (2026-11-24)
+- Casino slots: round chips for coin sizes, 25c up to $100
+
+## 0.5 (2026-11-24)
+- Casino slots: big full-width Spin button; buttons stay put while spinning
+
+## 0.4 (2026-11-24)
+- Casino slots: bell and coin-drop win sound, confetti on wins
+
+## 0.3 (2026-11-24)
+- Casino slots: 25c to $25 coins, play 1-3 coins (3 unlocks the owl jackpot); bank keeps cents
+
+## 0.2 (2026-11-24)
+- Casino slots: synthesized spin ticks, reel thuds and win jingles, with a sound switch
+
+## 0.1 (2026-11-24)
+- Mayhoo Casino: Blackjack, Roulette, Slots and Craps with a shared $500 play-money bank
