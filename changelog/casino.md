@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.35 (2026-11-25)
+- Menus: tiles go straight into the game when there's only one choice
+- Roulette: livelier ball bounces (hit plus rebound, faster rim roll)
+
 ## 0.34 (2026-11-25)
 - Roulette: livelier ball bounces (hit plus rebound, faster rim roll)
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
