@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.25 (2026-11-25)
+- Menus: tiles go straight into the game when there's only one choice
+- HootDoku: a longer, natural owl whooo when placing an owl (no pitch-down)
+
 ## 0.24 (2026-11-25)
 - HootDoku: a longer, natural owl whooo when placing an owl (no pitch-down)
 - HootDoku: tap toggles X, double-tap places an owl
