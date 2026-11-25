@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.16 (2026-11-25)
+- HootDoku: taking an owl off removes its Auto-X marks
+- Tracks: owl train runs the finished line; tap cycles X, track dot, clear
+
 ## 0.15 (2026-11-25)
 - Tracks: owl train runs the finished line; tap cycles X, track dot, clear
 - Tracks: dragging across empty squares paints X's
