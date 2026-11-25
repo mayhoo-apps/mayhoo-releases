@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.33 (2026-11-25)
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+- Roulette: the ball bounces over the frets instead of a clicker; quieter win tunes
+
 ## 0.32 (2026-11-25)
 - Roulette: the ball bounces over the frets instead of a clicker; quieter win tunes
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
