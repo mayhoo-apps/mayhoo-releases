@@ -2,19 +2,6 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
-## 0.17 (2026-11-25)
-- Small fixes and polish.
-
-## 0.17 (2026-11-25)
-- Small fixes and polish.
-
-## 0.17 (2026-11-25)
-- People cast for the grown-up tables; animals become the Kids cast
-- Mayhoo cast: 20 animal characters with fixed names and faces drawn in code, seated in every card game
-- Updates: Hub checks all apps (games only check themselves without the Hub), notes for every version you skipped; release.sh writes changelog/<app>.md and keeps 3 releases per app
-- Mayhoo Solitaire app: Klondike (draw 1/3) and FreeCell (classic deal numbers), tap to move, unlimited undo, owl hints, auto-finish
-- Phase Rummy in Mayhoo Rummy: our own 1-12 four-color deck with wilds and skips, ten phases, labeled phase slots, bots and owl
-
 ## 0.16 (2026-11-24)
 - Spades in Mayhoo Cards: partners, bids and nil, spades trump, bags; owl suggests bids and plays
 
