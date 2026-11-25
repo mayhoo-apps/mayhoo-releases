@@ -6,6 +6,9 @@ Newest first. The app shows the notes for every version newer than the one you h
 - Small fixes and polish.
 
 ## 0.17 (2026-11-25)
+- Small fixes and polish.
+
+## 0.17 (2026-11-25)
 - People cast for the grown-up tables; animals become the Kids cast
 - Mayhoo cast: 20 animal characters with fixed names and faces drawn in code, seated in every card game
 - Updates: Hub checks all apps (games only check themselves without the Hub), notes for every version you skipped; release.sh writes changelog/<app>.md and keeps 3 releases per app
