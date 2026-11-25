@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.54 (2026-11-25)
+- Rummy 500: the card you must use from the discard pile stays selected
+- Sound effects across every app, with a Settings switch
+
 ## 0.53 (2026-11-25)
 - Sound effects across every app, with a Settings switch
 - Settings: one big 'get all our games with Mayhoo Hub', then a compact list
