@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.23 (2026-11-25)
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+- Hub: a colorful grid of picture tiles instead of a wordy list
+
 ## 0.22 (2026-11-25)
 - Hub: a colorful grid of picture tiles instead of a wordy list
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
