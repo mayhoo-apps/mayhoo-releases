@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.8 (2026-11-25)
+- HootDoku: Hint (owl) and rules (?) on the color-tile row above the grid
+- HootDoku: three-feathers mode, textured colors, Clear asks first
+
 ## 0.7 (2026-11-25)
 - HootDoku: three-feathers mode, textured colors, Clear asks first
 - HootDoku: a real owl hoots when you place an owl, and on a solve
