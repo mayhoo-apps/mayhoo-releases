@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.29 (2026-11-25)
+- Game name in a slim title strip above the table, not under the cards
+- Sound effects across every app, with a Settings switch
+
 ## 0.28 (2026-11-25)
 - Sound effects across every app, with a Settings switch
 
