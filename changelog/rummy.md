@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.51 (2026-11-25)
+- Solitaire: drag and drop, tap-then-tap, landscape, buttons off the table
+- Mayhoo Puzzles with HootDoku
+- Print the game's name on the felt in every game
+
 ## 0.50 (2026-11-25)
 - People cast for the grown-up tables; animals become the Kids cast
 - Mayhoo cast: 20 animal characters with fixed names and faces drawn in code, seated in every card game
