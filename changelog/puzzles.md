@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.18 (2026-11-25)
+- Sound effects across every app, with a Settings switch
+
 ## 0.17 (2026-11-25)
 - Tracks: the owl train whistles, chuffs and hoots
 - HootDoku: taking an owl off removes its Auto-X marks
