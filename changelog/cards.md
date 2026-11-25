@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.60 (2026-11-25)
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+- Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
+
 ## 0.59 (2026-11-25)
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
 - Bring back the faint game name on the felt, alongside the title strip
