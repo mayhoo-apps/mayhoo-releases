@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.10 (2026-11-25)
+- Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
+
 ## 0.9 (2026-11-25)
 - Solitaire sideways: piles and buttons move to the sides
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
