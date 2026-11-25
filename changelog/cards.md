@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.57 (2026-11-25)
+- Game name in a slim title strip above the table, not under the cards
+- Sound effects across every app, with a Settings switch
+
 ## 0.56 (2026-11-25)
 - Sound effects across every app, with a Settings switch
 - Settings: one big 'get all our games with Mayhoo Hub', then a compact list
