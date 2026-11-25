@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.22 (2026-11-25)
+- Hub: a colorful grid of picture tiles instead of a wordy list
+- Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
+
 ## 0.21 (2026-11-25)
 - Menus keep their scroll spot; HootDoku mode is clear; wrong owls get a foghorn
 - Bring back the faint game name on the felt, alongside the title strip
