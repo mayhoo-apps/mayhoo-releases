@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.24 (2026-11-25)
+- HootDoku: a longer, natural owl whooo when placing an owl (no pitch-down)
+- HootDoku: tap toggles X, double-tap places an owl
+
 ## 0.23 (2026-11-25)
 - HootDoku: tap toggles X, double-tap places an owl
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
