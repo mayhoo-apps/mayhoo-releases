@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.9 (2026-11-26)
+- Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
+- Darts: a fresh random sway for every dart, so no player gets a steadier pattern
+
 ## 0.8 (2026-11-26)
 - Darts: a fresh random sway for every dart, so no player gets a steadier pattern
 - Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
