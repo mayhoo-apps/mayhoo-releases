@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.8 (2026-11-26)
+- Darts: a fresh random sway for every dart, so no player gets a steadier pattern
+- Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
+
 ## 0.7 (2026-11-26)
 - Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
 
