@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.89 (2026-11-26)
+- Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
+- Hand and Foot: your partner's 'not yet' stays on screen (with why) for the rest of your turn
+
 ## 0.88 (2026-11-26)
 - Hand and Foot: your partner's 'not yet' stays on screen (with why) for the rest of your turn
 - Hand and Foot: books shrink to stay on one row (two smaller rows past that), and ours use the full width, so they never run into your foot or hand
