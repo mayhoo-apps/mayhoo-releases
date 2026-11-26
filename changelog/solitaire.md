@@ -2,6 +2,15 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.31 (2026-11-26)
+- Bump all six apps for release
+- Tagline under the name on every app's menu
+- Settings: our games as small icon tiles, four to a row, name and status underneath
+- Play tips through Play Billing; Settings shows our games as picture tiles
+- Menu owl goes back to Mayhoo Hub when it's installed
+- Play large-screen and edge-to-edge warnings
+- Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
+
 ## 0.30 (2026-11-26)
 - Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
 - Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
