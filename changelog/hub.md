@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.40 (2026-11-26)
+- Puzzles: Acorns (Tango-style) and Flight (Zip-style); Hoot owl pieces in HootDoku; wire-bound smaller calendar; ? at the right of the title strip; Slots shows ? on the machine instead of a title strip
+- Only Mayhoo Hub updates: games drop their updater, the install permission and internet access
+
 ## 0.39 (2026-11-26)
 - Only Mayhoo Hub updates: games drop their updater, the install permission and internet access
 
