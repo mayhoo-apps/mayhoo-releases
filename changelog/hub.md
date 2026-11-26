@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.31 (2026-11-26)
+- Rounded pill buttons in every app; Puzzles size list on a light panel (was dark on dark)
+- Splash: Gemini art per app around the owl mark, name rises in with an amber rule
+- Players: drop Speed; every bot plays at the same steady pace
+- Gemini card art: table surfaces, card backs, court cards, card stock; bigger players
+
 ## 0.30 (2026-11-26)
 - Gemini card art: table surfaces, card backs, court cards, card stock; bigger players
 - Meet the players: a quiet link at the bottom; no hint under every face
