@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.39 (2026-11-26)
+- Puzzles: Gemini glazed HootDoku tiles, railway and brass/glass pipe pieces, old-paper handwritten Daily calendar
+
 ## 0.38 (2026-11-26)
 - The Wise Owl: Gemini portrait in the corner of his advice card; 'Owl says' becomes 'Wise Owl says' everywhere
 - Table portraits zoom in on the face (middle 62%, a little above center); Kenji's portrait recentered
