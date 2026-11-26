@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.47 (2026-11-26)
+- Casino 0.47: bank stacks match the chip art, black $100s first, taller stacks beside the amount
+- Rounded pill buttons in every app; Puzzles size list on a light panel (was dark on dark)
+
 ## 0.46 (2026-11-26)
 - Rounded pill buttons in every app; Puzzles size list on a light panel (was dark on dark)
 - Splash: Gemini art per app around the owl mark, name rises in with an amber rule
