@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.38 (2026-11-26)
+- Roulette: fix the crash when the wheel pop-up closes
+- Casino: a big +$/−$ pops over the table after every round
+
 ## 0.37 (2026-11-26)
 - Casino: a big +$/−$ pops over the table after every round
 
