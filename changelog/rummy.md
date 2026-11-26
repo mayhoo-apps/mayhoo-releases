@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.66 (2026-11-26)
+- Player personalities change how the bots play; readable player cards
+- Menus: 'In progress' badge, clearer resume/new choices, readable names over the art
+
 ## 0.65 (2026-11-26)
 - Menus: 'In progress' badge, clearer resume/new choices, readable names over the art
 - Gemini art: Hoot the owl on every tile, player portraits, support page
