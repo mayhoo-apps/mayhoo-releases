@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.70 (2026-11-26)
+- Rounded pill buttons in every app; Puzzles size list on a light panel (was dark on dark)
+- Splash: Gemini art per app around the owl mark, name rises in with an amber rule
+- Players: drop Speed; every bot plays at the same steady pace
+
 ## 0.69 (2026-11-26)
 - Players: drop Speed; every bot plays at the same steady pace
 
