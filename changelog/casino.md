@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.73 (2026-11-26)
+- Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
+- Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
+
 ## 0.72 (2026-11-26)
 - One shared game list: games read the Hub's catalog, so new apps show up everywhere
 - Duel 0.4: Gemini table tennis table on a wooden sports-hall floor, aligned to the court
