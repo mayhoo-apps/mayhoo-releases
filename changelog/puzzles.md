@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.47 (2026-11-26)
+- Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
+- Acorns: after a win, offer the next even size (6×6, 8×8), not 5×5
+
 ## 0.46 (2026-11-26)
 - Acorns: after a win, offer the next even size (6×6, 8×8), not 5×5
 - Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
