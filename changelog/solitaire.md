@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.30 (2026-11-26)
+- Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
+- Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
+- Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
+- Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
+
 ## 0.29 (2026-11-26)
 - Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
 
