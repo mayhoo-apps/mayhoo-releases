@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.93 (2026-11-26)
+- Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
+
 ## 0.92 (2026-11-26)
 - Show GitHub or Google Play next to the version (splash and Settings); bump all six
 
