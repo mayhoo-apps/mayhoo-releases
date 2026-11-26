@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.48 (2026-11-26)
+- Duel 0.2: table tennis to 5, Tic-Tac-Toe (two players or vs the Owl), Darts 301 (pass the phone)
+- Mayhoo Duel 0.1: table tennis for two on one phone, or against the Owl
+
 ## 0.47 (2026-11-26)
 - Mayhoo Duel 0.1: table tennis for two on one phone, or against the Owl
 - Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
