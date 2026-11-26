@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.78 (2026-11-26)
+- Table portraits zoom in on the face (middle 62%, a little above center); Kenji's portrait recentered
+- Hand and Foot: felt name back, printed just above the draw pile
+
 ## 0.77 (2026-11-26)
 - Hand and Foot: felt name back, printed just above the draw pile
 - Help (?) and the Owl move down by the player: bottom right, just above your hand or chips
