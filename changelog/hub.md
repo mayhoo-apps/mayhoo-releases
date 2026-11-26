@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.27 (2026-11-26)
+- Sponsorship: no honor-system checkbox or 'did you sponsor?' prompt
+- Update all installs apps one after another; player cards; Arcade and Duel coming soon
+
 ## 0.26 (2026-11-26)
 - Update all installs apps one after another; player cards; Arcade and Duel coming soon
 - No one-button menus: a tile with one choice just does it
