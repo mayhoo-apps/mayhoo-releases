@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.66 (2026-11-26)
+- Casino: new win sounds, a bell chime with real chips and coins, replacing the steel-drum jingle
+- Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
+- Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
+
 ## 0.65 (2026-11-26)
 - Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
 
