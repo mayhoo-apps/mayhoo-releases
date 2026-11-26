@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.56 (2026-11-26)
+- Casino 0.56: Blackjack on a Gemini table (printed arcs, shoe, betting circle); bets sit in the circle
+- Casino 0.55: Roulette and Craps always on matching green felt (boards feathered in); Slots on its own machine-and-payout-tray background
+
 ## 0.55 (2026-11-26)
 - Casino 0.55: Roulette and Craps always on matching green felt (boards feathered in); Slots on its own machine-and-payout-tray background
 - Roulette keeps the board full size: Clear/Repeat sit beside Spin, the message is one line that shrinks to fit; disabled buttons fade to gray
