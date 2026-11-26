@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.14 (2026-11-26)
+- Update all installs apps one after another; player cards; Arcade and Duel coming soon
+
 ## 0.13 (2026-11-26)
 - No one-button menus: a tile with one choice just does it
 - Math Solitaire engine draft (parked; no app yet)
