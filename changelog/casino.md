@@ -2,6 +2,14 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.69 (2026-11-26)
+- Bump all six apps for release
+- Tagline under the name on every app's menu
+- Settings: our games as small icon tiles, four to a row, name and status underneath
+- Play tips through Play Billing; Settings shows our games as picture tiles
+- Menu owl goes back to Mayhoo Hub when it's installed
+- Play large-screen and edge-to-edge warnings
+
 ## 0.68 (2026-11-26)
 - Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
 - Blackjack: your hand sits a little lower and smaller so its label clears the printed arcs and the betting circle
