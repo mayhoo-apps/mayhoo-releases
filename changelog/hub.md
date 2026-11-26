@@ -2,6 +2,15 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.44 (2026-11-26)
+- Bump all six apps for release
+- Tagline under the name on every app's menu
+- Settings: our games as small icon tiles, four to a row, name and status underneath
+- Play tips through Play Billing; Settings shows our games as picture tiles
+- Menu owl goes back to Mayhoo Hub when it's installed
+- Play large-screen and edge-to-edge warnings
+- Hub 0.43 (Play re-upload after the Hub's app signing key reset)
+
 ## 0.43 (2026-11-26)
 - Hub 0.43 (Play re-upload after the Hub's app signing key reset)
 - Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
