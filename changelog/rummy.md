@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.88 (2026-11-26)
+- Hand and Foot: your partner's 'not yet' stays on screen (with why) for the rest of your turn
+- Hand and Foot: books shrink to stay on one row (two smaller rows past that), and ours use the full width, so they never run into your foot or hand
+
 ## 0.87 (2026-11-26)
 - Hand and Foot: books shrink to stay on one row (two smaller rows past that), and ours use the full width, so they never run into your foot or hand
 - Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
