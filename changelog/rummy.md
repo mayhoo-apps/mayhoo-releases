@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.92 (2026-11-26)
+- Show GitHub or Google Play next to the version (splash and Settings); bump all six
+
 ## 0.91 (2026-11-26)
 - Bump all six apps for release
 - Hand and Foot: at pick-up the Owl agrees with your partner instead of repeating
