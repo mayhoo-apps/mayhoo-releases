@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.95 (2026-11-26)
+- Hand and Foot: drawn cards get a DREW tab and stay flat; only the Owl's picks are raised
+- Mayhoo Duel 0.1: table tennis for two on one phone, or against the Owl
+- Hand and Foot pick-up: only your partner's advice, in the partner box, in their own voice
+
 ## 0.94 (2026-11-26)
 - Hand and Foot pick-up: only your partner's advice, in the partner box, in their own voice
 - Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
