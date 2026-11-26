@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.96 (2026-11-26)
+- Hand and Foot: DREW tab runs sideways up the card's lower left edge
+- Hand and Foot: drawn cards get a DREW tab and stay flat; only the Owl's picks are raised
+
 ## 0.95 (2026-11-26)
 - Hand and Foot: drawn cards get a DREW tab and stay flat; only the Owl's picks are raised
 - Mayhoo Duel 0.1: table tennis for two on one phone, or against the Owl
