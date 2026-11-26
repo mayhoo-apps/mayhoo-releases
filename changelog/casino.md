@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.68 (2026-11-26)
+- Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
+- Blackjack: your hand sits a little lower and smaller so its label clears the printed arcs and the betting circle
+
 ## 0.67 (2026-11-26)
 - Blackjack: your hand sits a little lower and smaller so its label clears the printed arcs and the betting circle
 - Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
