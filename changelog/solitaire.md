@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.24 (2026-11-26)
+- Solitaire menu: tap a tile to continue; Klondike Draw 1/3 drop-down, FreeCell Deal # pill; no in-between screen
+
 ## 0.23 (2026-11-26)
 - The Wise Owl: Gemini portrait in the corner of his advice card; 'Owl says' becomes 'Wise Owl says' everywhere
 - Table portraits zoom in on the face (middle 62%, a little above center); Kenji's portrait recentered
