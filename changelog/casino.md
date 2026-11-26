@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.58 (2026-11-26)
+- Help (?) and the Owl move down by the player: bottom right, just above your hand or chips
+
 ## 0.57 (2026-11-26)
 - Casino 0.57: Craps saves the table at every change, in step with the bank
 - Casino 0.56: Blackjack on a Gemini table (printed arcs, shoe, betting circle); bets sit in the circle
