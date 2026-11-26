@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.10 (2026-11-26)
+- Duel: two-player win screens put each player's result at their own end, buttons in the middle
+
 ## 0.9 (2026-11-26)
 - Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
 - Darts: a fresh random sway for every dart, so no player gets a steadier pattern
