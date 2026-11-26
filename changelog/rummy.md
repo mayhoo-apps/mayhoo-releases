@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.86 (2026-11-26)
+- Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
+- Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
+
 ## 0.85 (2026-11-26)
 - Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
 
