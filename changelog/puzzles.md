@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.45 (2026-11-26)
+- Tracks: pieces made symmetric so straights and curves meet exactly; Gemini meadow under the grid with the lines on top; grass shows between the ties
+- Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
+
 ## 0.44 (2026-11-26)
 - Fonts: Cinzel for scores, table labels, titles and the bank; Lora for the Wise Owl's and partners' words; score rows lined up (Us: / Them:)
 
