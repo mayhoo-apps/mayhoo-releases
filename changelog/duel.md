@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.7 (2026-11-26)
+- Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
+
 ## 0.6 (2026-11-26)
 - One shared game list: games read the Hub's catalog, so new apps show up everywhere
 - Duel 0.5: Owl covers the whole table and places its shots; Red/Blue win screen with confetti; darts close-up on bullseye and treble 20
