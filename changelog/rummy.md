@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.81 (2026-11-26)
+- Help by the game's name: tap the name (or its ?) for the rules; Slots and Roulette drop the owl
+- Roulette: ? and the owl move above the board; board as wide as fits at its own 3:4 shape
+- Advice box shows your partner: name in the label, portrait in the corner (Hand and Foot)
+
 ## 0.79 (2026-11-26)
 - The Wise Owl: Gemini portrait in the corner of his advice card; 'Owl says' becomes 'Wise Owl says' everywhere
 
