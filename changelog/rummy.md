@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.98 (2026-11-26)
+- Rummy 500: a meld stays in the area of whoever started it, even when the other player adds lower cards
+- Rummy games: double-tap a card to select every card of that rank (or Phase number)
+
 ## 0.97 (2026-11-26)
 - Rummy games: double-tap a card to select every card of that rank (or Phase number)
 - Hand and Foot: DREW tab runs sideways up the card's lower left edge
