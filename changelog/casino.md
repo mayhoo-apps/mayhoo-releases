@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.63 (2026-11-26)
+- Only Mayhoo Hub updates: games drop their updater, the install permission and internet access
+- Rules ? beside every game's title (the name opens them too); the owl sits alone by the player
+
 ## 0.62 (2026-11-26)
 - Rules ? beside every game's title (the name opens them too); the owl sits alone by the player
 - Help by the game's name: tap the name (or its ?) for the rules; Slots and Roulette drop the owl
