@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.47 (2026-11-26)
+- Mayhoo Duel 0.1: table tennis for two on one phone, or against the Owl
+- Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
+
 ## 0.46 (2026-11-26)
 - Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
 - Show GitHub or Google Play next to the version (splash and Settings); bump all six
