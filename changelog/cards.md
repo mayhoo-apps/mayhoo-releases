@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.77 (2026-11-26)
+- Roulette keeps the board full size: Clear/Repeat sit beside Spin, the message is one line that shrinks to fit; disabled buttons fade to gray
+- Casino 0.53: Craps takes bets from the bank only when you roll, and the table survives leaving
+
 ## 0.76 (2026-11-26)
 - Suits in game text drawn as shapes (white / light red), never gray emoji; Blackjack rows stay clear of the ? and owl
 - Casino 0.50: Gemini dice faces for Craps (shared in core for future dice games)
