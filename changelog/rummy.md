@@ -2,6 +2,19 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.91 (2026-11-26)
+- Bump all six apps for release
+- Hand and Foot: at pick-up the Owl agrees with your partner instead of repeating
+- Tagline under the name on every app's menu
+- Settings: our games as small icon tiles, four to a row, name and status underneath
+- Play tips through Play Billing; Settings shows our games as picture tiles
+- Hand and Foot: closed-pile banner stays 4 s, other banners 2.6 s
+- Hand and Foot: partner's pick-up advice stays visible when the Owl is on
+- Hand and Foot: drawn cards keep a NEW tab and are named when the Owl is on
+- Menu owl goes back to Mayhoo Hub when it's installed
+- Play large-screen and edge-to-edge warnings
+- Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
+
 ## 0.90 (2026-11-26)
 - Play builds: Hub's developer heads-up banner and its permissions move to the GitHub flavor; no sponsorship reminders or Settings section on Play until Play Billing
 - Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
