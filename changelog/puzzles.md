@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.28 (2026-11-26)
+- Puzzles: size drop-down under each tile, with best times; tap goes straight in
+
 ## 0.27 (2026-11-26)
 - No one-button menus: a tile with one choice just does it
 - Math Solitaire engine draft (parked; no app yet)
