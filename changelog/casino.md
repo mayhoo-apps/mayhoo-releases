@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.45 (2026-11-26)
+- Casino: Gemini chip set; your bank as chip stacks right by your hand
+- Players: drop Speed; every bot plays at the same steady pace
+
 ## 0.44 (2026-11-26)
 - Gemini card art: table surfaces, card backs, court cards, card stock; bigger players
 - Meet the players: a quiet link at the bottom; no hint under every face
