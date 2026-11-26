@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.65 (2026-11-26)
+- Menus: 'In progress' badge, clearer resume/new choices, readable names over the art
+- Gemini art: Hoot the owl on every tile, player portraits, support page
+
 ## 0.64 (2026-11-26)
 - Gemini art: Hoot the owl on every tile, player portraits, support page
 
