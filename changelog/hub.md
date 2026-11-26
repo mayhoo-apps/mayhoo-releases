@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.25 (2026-11-26)
+- No one-button menus: a tile with one choice just does it
+- Math Solitaire engine draft (parked; no app yet)
+- Tile art redrawn in one style; richer tile design
+
 ## 0.24 (2026-11-25)
 - Tile art redrawn in one style; richer tile design
 - Colorful picture-tile menus in every app; Puzzles Easy/Medium/Hard; roulette wheel pop-up
