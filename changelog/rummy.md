@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.77 (2026-11-26)
+- Hand and Foot: felt name back, printed just above the draw pile
+- Help (?) and the Owl move down by the player: bottom right, just above your hand or chips
+
 ## 0.76 (2026-11-26)
 - Help (?) and the Owl move down by the player: bottom right, just above your hand or chips
 - Casino 0.55: Roulette and Craps always on matching green felt (boards feathered in); Slots on its own machine-and-payout-tray background
