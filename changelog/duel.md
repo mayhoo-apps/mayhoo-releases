@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.11 (2026-11-26)
+- Duel win screens: result near each player, Play again facing each player, one Menu button that reads both ways
+- Duel: two-player win screens put each player's result at their own end, buttons in the middle
+
 ## 0.10 (2026-11-26)
 - Duel: two-player win screens put each player's result at their own end, buttons in the middle
 
