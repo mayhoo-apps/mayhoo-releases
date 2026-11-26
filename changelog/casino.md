@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.50 (2026-11-26)
+- Casino 0.50: Gemini dice faces for Craps (shared in core for future dice games)
+- Card tables: status split into a short line plus a labeled advice card (Owl / Partner)
+- Card tables: owl sits beside the ? (clear of the right seat); Hand and Foot drops the felt name
+- Gemini button plates in every app; navy-and-gold menu dialogs
+
 ## 0.49 (2026-11-26)
 - Gemini button plates in every app; navy-and-gold menu dialogs
 - Casino 0.48: no name printed on the felt for Slots, Roulette and Craps
