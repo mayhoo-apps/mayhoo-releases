@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.88 (2026-11-26)
+- Show GitHub or Google Play next to the version (splash and Settings); bump all six
+
 ## 0.87 (2026-11-26)
 - Bump all six apps for release
 - Tagline under the name on every app's menu
