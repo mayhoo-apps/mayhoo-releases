@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.4 (2026-11-26)
+- Duel 0.4: Gemini table tennis table on a wooden sports-hall floor, aligned to the court
+- Duel 0.3: Gemini dartboard on a brick pub wall; Gemini wooden tic-tac-toe board with glass X and O pieces
+
 ## 0.3 (2026-11-26)
 - Duel 0.3: Gemini dartboard on a brick pub wall; Gemini wooden tic-tac-toe board with glass X and O pieces
 - Duel 0.2: table tennis to 5, Tic-Tac-Toe (two players or vs the Owl), Darts 301 (pass the phone)
