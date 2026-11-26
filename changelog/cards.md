@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.69 (2026-11-26)
+- Meet the players: a quiet link at the bottom; no hint under every face
+- Player personalities change how the bots play; readable player cards
+
 ## 0.68 (2026-11-26)
 - Player personalities change how the bots play; readable player cards
 - Menus: 'In progress' badge, clearer resume/new choices, readable names over the art
