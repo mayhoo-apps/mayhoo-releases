@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.37 (2026-11-26)
+- Help by the game's name: tap the name (or its ?) for the rules; Slots and Roulette drop the owl
+- Roulette: ? and the owl move above the board; board as wide as fits at its own 3:4 shape
+- Advice box shows your partner: name in the label, portrait in the corner (Hand and Foot)
+- Hub: developer heads-up banner over any app, sent over adb (tools/phone-heads-up.sh)
+
 ## 0.35 (2026-11-26)
 - Hub: developer heads-up banner over any app, sent over adb (tools/phone-heads-up.sh)
 
