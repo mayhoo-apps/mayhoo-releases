@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.39 (2026-11-26)
+- No one-button menus: a tile with one choice just does it
+- Math Solitaire engine draft (parked; no app yet)
+- Roulette: fix the crash when the wheel pop-up closes
+
 ## 0.38 (2026-11-26)
 - Roulette: fix the crash when the wheel pop-up closes
 - Casino: a big +$/−$ pops over the table after every round
