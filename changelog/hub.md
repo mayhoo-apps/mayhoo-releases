@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.38 (2026-11-26)
+- Rules ? beside every game's title (the name opens them too); the owl sits alone by the player
+- Help by the game's name: tap the name (or its ?) for the rules; Slots and Roulette drop the owl
+
 ## 0.37 (2026-11-26)
 - Help by the game's name: tap the name (or its ?) for the rules; Slots and Roulette drop the owl
 - Roulette: ? and the owl move above the board; board as wide as fits at its own 3:4 shape

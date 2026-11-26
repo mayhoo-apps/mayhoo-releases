@@ -239,3 +239,4 @@ One line (and one commit) per release. Tags start with the UTC date and time so 
 - 2026-11-26T04:38:16Z 20261126-0438-cards-v0.82
 - 2026-11-26T04:38:24Z 20261126-0438-solitaire-v0.26
 - 2026-11-26T04:38:33Z 20261126-0438-puzzles-v0.41
+- 2026-11-26T04:38:41Z 20261126-0438-hub-v0.38
