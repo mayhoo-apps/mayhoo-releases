@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.37 (2026-11-26)
+- Casino: a big +$/−$ pops over the table after every round
+
 ## 0.36 (2026-11-25)
 - Tile art redrawn in one style; richer tile design
 - Menus: tiles go straight into the game when there's only one choice
