@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.101 (2026-11-26)
+- Play builds: in-app updates (Play's flexible update, then Restart to update); Play Hub badges apps that are behind and opens their Play page
+- Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
+
 ## 0.100 (2026-11-26)
 - Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
 - Duel 0.7: Match for two (scattered tiles, Red bottom / Blue top, pair = go again, 10 or 15 pairs from 40 Gemini pictures); steadier darts aim
