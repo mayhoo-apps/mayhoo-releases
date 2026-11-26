@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.75 (2026-11-26)
+- Card tables: status split into a short line plus a labeled advice card (Owl / Partner)
+- Card tables: owl sits beside the ? (clear of the right seat); Hand and Foot drops the felt name
+
 ## 0.74 (2026-11-26)
 - Card tables: owl sits beside the ? (clear of the right seat); Hand and Foot drops the felt name
 - Gemini button plates in every app; navy-and-gold menu dialogs
