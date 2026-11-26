@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.74 (2026-11-26)
+- Suits in game text drawn as shapes (white / light red), never gray emoji; Blackjack rows stay clear of the ? and owl
+- Casino 0.50: Gemini dice faces for Craps (shared in core for future dice games)
+
 ## 0.73 (2026-11-26)
 - Card tables: status split into a short line plus a labeled advice card (Owl / Partner)
 - Card tables: owl sits beside the ? (clear of the right seat); Hand and Foot drops the felt name
