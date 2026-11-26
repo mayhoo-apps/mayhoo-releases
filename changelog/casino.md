@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.67 (2026-11-26)
+- Blackjack: your hand sits a little lower and smaller so its label clears the printed arcs and the betting circle
+- Tracks: the line comes out of a tunnel at A and runs into one at B; given pieces sit on railway gravel. Hand and Foot: discards keep high cards unless someone could go out soon, with honest reasons
+- Casino: new win sounds, a bell chime with real chips and coins, replacing the steel-drum jingle
+
 ## 0.66 (2026-11-26)
 - Casino: new win sounds, a bell chime with real chips and coins, replacing the steel-drum jingle
 - Hand and Foot: the Wise Owl's discard reason counts the copies you actually hold
