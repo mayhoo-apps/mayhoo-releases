@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.80 (2026-11-26)
+- The Wise Owl: Gemini portrait in the corner of his advice card; 'Owl says' becomes 'Wise Owl says' everywhere
+- Table portraits zoom in on the face (middle 62%, a little above center); Kenji's portrait recentered
+
 ## 0.79 (2026-11-26)
 - Table portraits zoom in on the face (middle 62%, a little above center); Kenji's portrait recentered
 - Hand and Foot: felt name back, printed just above the draw pile
