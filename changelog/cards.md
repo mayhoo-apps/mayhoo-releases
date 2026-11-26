@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.70 (2026-11-26)
+- Gemini card art: table surfaces, card backs, court cards, card stock; bigger players
+- Meet the players: a quiet link at the bottom; no hint under every face
+- Player personalities change how the bots play; readable player cards
+
 ## 0.69 (2026-11-26)
 - Meet the players: a quiet link at the bottom; no hint under every face
 - Player personalities change how the bots play; readable player cards
