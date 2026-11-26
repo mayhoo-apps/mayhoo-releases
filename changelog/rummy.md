@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.94 (2026-11-26)
+- Hand and Foot pick-up: only your partner's advice, in the partner box, in their own voice
+- Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
+
 ## 0.93 (2026-11-26)
 - Label GitHub builds 'Direct' instead of 'GitHub'; bump all six
 
