@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.51 (2026-11-26)
+- Casino 0.51: Blackjack cards about twice as big, bigger bet chips, winnings fly to your bank
+- Casino 0.50: Gemini dice faces for Craps (shared in core for future dice games)
+
 ## 0.50 (2026-11-26)
 - Casino 0.50: Gemini dice faces for Craps (shared in core for future dice games)
 - Card tables: status split into a short line plus a labeled advice card (Owl / Partner)
