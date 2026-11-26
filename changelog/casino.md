@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.46 (2026-11-26)
+- Rounded pill buttons in every app; Puzzles size list on a light panel (was dark on dark)
+- Splash: Gemini art per app around the owl mark, name rises in with an amber rule
+- Casino 0.46: Gemini slot machine, roulette and craps tables, wheel, medallions, gold buttons
+- Casino: Gemini chip set; your bank as chip stacks right by your hand
+
 ## 0.45 (2026-11-26)
 - Casino: Gemini chip set; your bank as chip stacks right by your hand
 - Players: drop Speed; every bot plays at the same steady pace
