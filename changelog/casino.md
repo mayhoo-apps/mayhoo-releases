@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.53 (2026-11-26)
+- Casino 0.53: Craps takes bets from the bank only when you roll, and the table survives leaving
+
 ## 0.52 (2026-11-26)
 - Suits in game text drawn as shapes (white / light red), never gray emoji; Blackjack rows stay clear of the ? and owl
 - Casino 0.51: Blackjack cards about twice as big, bigger bet chips, winnings fly to your bank
