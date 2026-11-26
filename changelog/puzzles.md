@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.29 (2026-11-26)
+- Update all installs apps one after another; player cards; Arcade and Duel coming soon
+- Puzzles: size drop-down under each tile, with best times; tap goes straight in
+
 ## 0.28 (2026-11-26)
 - Puzzles: size drop-down under each tile, with best times; tap goes straight in
 
