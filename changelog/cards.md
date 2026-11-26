@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.78 (2026-11-26)
+- Help (?) and the Owl move down by the player: bottom right, just above your hand or chips
+- Casino 0.55: Roulette and Craps always on matching green felt (boards feathered in); Slots on its own machine-and-payout-tray background
+- Roulette keeps the board full size: Clear/Repeat sit beside Spin, the message is one line that shrinks to fit; disabled buttons fade to gray
+
 ## 0.77 (2026-11-26)
 - Roulette keeps the board full size: Clear/Repeat sit beside Spin, the message is one line that shrinks to fit; disabled buttons fade to gray
 - Casino 0.53: Craps takes bets from the bank only when you roll, and the table survives leaving
