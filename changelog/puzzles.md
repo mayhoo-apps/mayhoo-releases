@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.55 (2026-11-27)
+- Tracks: drop the A/B tunnels (wrong perspective); plain track stubs in and out, with A and B labels
+- Phase Rummy: phases are minimums (a set of 3 can go down as 4, a run of 4 as 5); deck count beside the deck; laid-down note above the hand
+
 ## 0.54 (2026-11-26)
 - Play builds: in-app updates (Play's flexible update, then Restart to update); Play Hub badges apps that are behind and opens their Play page
 
