@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.105 (2026-11-27)
+- Phase Rummy: after someone goes out, everyone plays until the dealer's turn (dealer plays last); show your own score
+- Phase Rummy: the player who discards a skip chooses who loses a turn; bots skip whoever is closest to winning
+
 ## 0.104 (2026-11-27)
 - Phase Rummy: the player who discards a skip chooses who loses a turn; bots skip whoever is closest to winning
 - Hand and Foot: with two rows, the top row's DREW tabs peek above the card instead of covering the row below
