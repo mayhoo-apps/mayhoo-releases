@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.56 (2026-11-27)
+- Puzzles: Circuits (turn wires so every bulb is in a closed loop from + to -; shorts light nothing; 5x5 to 8x8)
+- Phase Rummy: after someone goes out, everyone plays until the dealer's turn (dealer plays last); show your own score
+- Phase Rummy: the player who discards a skip chooses who loses a turn; bots skip whoever is closest to winning
+- Tracks: drop the A/B tunnels (wrong perspective); plain track stubs in and out, with A and B labels
+
 ## 0.55 (2026-11-27)
 - Tracks: drop the A/B tunnels (wrong perspective); plain track stubs in and out, with A and B labels
 - Phase Rummy: phases are minimums (a set of 3 can go down as 4, a run of 4 as 5); deck count beside the deck; laid-down note above the hand
