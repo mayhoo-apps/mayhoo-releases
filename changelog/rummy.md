@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.102 (2026-11-27)
+- Phase Rummy: phases are minimums (a set of 3 can go down as 4, a run of 4 as 5); deck count beside the deck; laid-down note above the hand
+
 ## 0.101 (2026-11-26)
 - Play builds: in-app updates (Play's flexible update, then Restart to update); Play Hub badges apps that are behind and opens their Play page
 - Duel: Archery (wind per arrow, 4 rounds of 3, Gemini target and range); Duel now on Google Play; bump all seven
