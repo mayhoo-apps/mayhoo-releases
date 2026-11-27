@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.103 (2026-11-27)
+- Hand and Foot: with two rows, the top row's DREW tabs peek above the card instead of covering the row below
+- Phase Rummy: phases are minimums (a set of 3 can go down as 4, a run of 4 as 5); deck count beside the deck; laid-down note above the hand
+
 ## 0.102 (2026-11-27)
 - Phase Rummy: phases are minimums (a set of 3 can go down as 4, a run of 4 as 5); deck count beside the deck; laid-down note above the hand
 
