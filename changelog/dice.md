@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.13 (2026-11-28)
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+- Farkle: readable 'Farkle ☹️ / 0 pts' panel; slightly bigger scoring guide
+
 ## 0.12 (2026-11-28)
 - Farkle: readable 'Farkle ☹️ / 0 pts' panel; slightly bigger scoring guide
 - Farkle: scoring guide on the table; test that farkle rates match the odds
