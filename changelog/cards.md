@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.99 (2026-11-28)
+- Cards: side players sit below the scoreboard on short screens (Hearts portrait covered 'Lowest wins at 100')
+- Hand and Foot: Hootie plays each choice two trips around the table ahead (100 ways) and scores the table; +183 pts a round over the old advice (3,000 rounds)
+- Mayhoo Kids 0.1: Go Fish, Memory and Card War with twelve animal friends
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+
 ## 0.98 (2026-11-28)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
 - Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
