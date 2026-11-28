@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.114 (2026-11-28)
+- Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
+
 ## 0.113 (2026-11-28)
 - Gin: Owl discards by deadwood and the chance unseen cards help the rest of the hand
 - Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
