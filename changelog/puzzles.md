@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.57 (2026-11-28)
+- Puzzles: Circuits is now connect-the-pairs (colored terminals, wires can't cross, fill every square)
+- Puzzles: Circuits (turn wires so every bulb is in a closed loop from + to -; shorts light nothing; 5x5 to 8x8)
+
 ## 0.56 (2026-11-27)
 - Puzzles: Circuits (turn wires so every bulb is in a closed loop from + to -; shorts light nothing; 5x5 to 8x8)
 - Phase Rummy: after someone goes out, everyone plays until the dealer's turn (dealer plays last); show your own score
