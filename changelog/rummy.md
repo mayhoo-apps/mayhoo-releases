@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.115 (2026-11-28)
+- Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
+- Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
+
 ## 0.114 (2026-11-28)
 - Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
 
