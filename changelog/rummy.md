@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.112 (2026-11-28)
+- Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
+- Casino: Wise Owl advice in the owl box, like every other game
+- Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
+- Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
+
 ## 0.111 (2026-11-28)
 - Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
 - Phase Rummy: sort the hand by number or by color
