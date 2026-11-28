@@ -2,6 +2,17 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.6 (2026-11-28)
+- Left Right Hoot: out of acorns, one more time around, then you leave the table
+- Play: daily closed-testing push script (play_daily.sh, hold list) and track tool; tip jar adds tip_50 and tip_100
+- Hand and Foot: sampler for the play-it-out Owl (measuring before wiring it in)
+- Spades: the Owl plays each bid and card out a few hundred ways; +23 team points a hand over the old Owl (+13 from play, +10 from bids)
+- Hearts and Euchre: the Owl plays each card (and Euchre bid) out a few hundred ways; Hearts takes ~4 fewer points a hand, Euchre +0.19 team points a hand
+- Phase Rummy: the Owl plays each turn out 400 ways and says how often you make your phase; +13 per round over the old Owl (phase = 100, minus points left)
+- Rummy 500: the Owl plays each whole turn out (meld, then the best discard) and picks the best average; +13 pts/hand over the old Owl
+- Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
+- Left Right Hoot: acorn pot in the middle, bigger Gemini acorns, only the dice you'll roll
+
 ## 0.5 (2026-11-28)
 - Left Right Hoot: acorn pot in the middle, bigger Gemini acorns, only the dice you'll roll
 - Left Right Hoot: Gemini tavern table and treasure nest; dice roll on the roller's side of the nest
