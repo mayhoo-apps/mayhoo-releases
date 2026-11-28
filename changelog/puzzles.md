@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.63 (2026-11-28)
+- Puzzles: back arrow; Next puzzle and Try a harder one stacked; Circuits stops at 8x8; menu never preselects Puzzle number
+
 ## 0.62 (2026-11-28)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
 - Puzzles: after a solve, big gold Next puzzle and purple Try a harder one; tap the puzzle number to copy it (no Share or Menu buttons)
