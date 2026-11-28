@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.78 (2026-11-28)
+- Video Poker: full-size machine screen with big cards and pay table; ledge with coin slot
+- Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
+- Video Poker on a Gemini machine with bet chips sliding into the slot; Gin meld area, sort toggle, tap to unselect
+
 ## 0.77 (2026-11-28)
 - Video Poker on a Gemini machine with bet chips sliding into the slot; Gin meld area, sort toggle, tap to unselect
 
