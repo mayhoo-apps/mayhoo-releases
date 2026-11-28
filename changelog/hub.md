@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.54 (2026-11-28)
+- Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
+- Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
+- Fixes: Phase skip picker, DREW tag in Phase and Gin, Crazy Eights suit picker/draw animation/aces low, Video Poker any bet, Pyramid under-waste card in play
+- Duel: add Snakes (two players or vs the Owl); catalog lists the five new games
+
 ## 0.53 (2026-11-28)
 - Duel: add Snakes (two players or vs the Owl); catalog lists the five new games
 - Casino: add Video Poker (Jacks or Better); menu: lone last tile same size
