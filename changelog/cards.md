@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.96 (2026-11-28)
+- Spades: the Owl plays each bid and card out a few hundred ways; +23 team points a hand over the old Owl (+13 from play, +10 from bids)
+- Hearts and Euchre: the Owl plays each card (and Euchre bid) out a few hundred ways; Hearts takes ~4 fewer points a hand, Euchre +0.19 team points a hand
+
 ## 0.95 (2026-11-28)
 - Hearts and Euchre: the Owl plays each card (and Euchre bid) out a few hundred ways; Hearts takes ~4 fewer points a hand, Euchre +0.19 team points a hand
 - Phase Rummy: the Owl plays each turn out 400 ways and says how often you make your phase; +13 per round over the old Owl (phase = 100, minus points left)
