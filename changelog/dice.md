@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.4 (2026-11-28)
+- Left Right Hoot: Gemini tavern table and treasure nest; dice roll on the roller's side of the nest
+
 ## 0.3 (2026-11-28)
 - Farkle: mark the dice that score; button says to pick a scoring die first
 - Video Poker back to the original big layout; Hootzee two-part scorecard with box descriptions, die corners clipped; Puzzle # in the size dropdown; Tracks: darker grass, bold dots and X's
