@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.10 (2026-11-28)
+- Farkle: set-aside dice grouped by what scored, each with its points and name
+- Farkle: no foghorn on a farkle; FARKLE! with 0 under it
+
 ## 0.9 (2026-11-28)
 - Farkle: no foghorn on a farkle; FARKLE! with 0 under it
 - Left Right Hoot: more than 5 acorns shows 3 and +N
