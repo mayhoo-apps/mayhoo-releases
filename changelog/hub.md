@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.55 (2026-11-28)
+- Video Poker: Gemini marquee and navy/gold cabinet like the slot machine; Hub refreshes Update badges when an install finishes
+
 ## 0.54 (2026-11-28)
 - Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
 - Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
