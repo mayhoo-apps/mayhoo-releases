@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.14 (2026-11-28)
+- New launcher icons: one cream symbol with the Mayhoo owl eyes per app, made with Gemini to Ava's style guide (art/gemini/icons/ICON_STYLE.md); short launcher labels (Cards, Rummy, Hub...)
+- Hand and Foot: Hootie plays each choice two trips around the table ahead (100 ways) and scores the table; +183 pts a round over the old advice (3,000 rounds)
+- Mayhoo Kids 0.1: Go Fish, Memory and Card War with twelve animal friends
+
 ## 0.13 (2026-11-28)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
 - Farkle: readable 'Farkle ☹️ / 0 pts' panel; slightly bigger scoring guide
