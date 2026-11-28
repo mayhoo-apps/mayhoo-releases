@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.61 (2026-11-28)
+- Puzzles: after a solve, big gold Next puzzle and purple Try a harder one; tap the puzzle number to copy it (no Share or Menu buttons)
+
 ## 0.60 (2026-11-28)
 - Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
 - Play: daily closed-testing push script (play_daily.sh, hold list) and track tool; tip jar adds tip_50 and tip_100
