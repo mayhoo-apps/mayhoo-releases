@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.2 (2026-11-28)
+- New launcher icons: one cream symbol with the Mayhoo owl eyes per app, made with Gemini to Ava's style guide (art/gemini/icons/ICON_STYLE.md); short launcher labels (Cards, Rummy, Hub...)
+- Hand and Foot: Hootie plays each choice two trips around the table ahead (100 ways) and scores the table; +183 pts a round over the old advice (3,000 rounds)
+
 ## 0.1 (2026-11-28)
 - Kids: Card War cards stack and fit any phone, piles stay on screen; Go Fish name and card-count pills no longer overlap (checked on the Pixel 8a)
 - Mayhoo Kids 0.1: Go Fish, Memory and Card War with twelve animal friends
