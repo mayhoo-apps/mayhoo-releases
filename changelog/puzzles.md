@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.62 (2026-11-28)
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+- Puzzles: after a solve, big gold Next puzzle and purple Try a harder one; tap the puzzle number to copy it (no Share or Menu buttons)
+
 ## 0.61 (2026-11-28)
 - Puzzles: after a solve, big gold Next puzzle and purple Try a harder one; tap the puzzle number to copy it (no Share or Menu buttons)
 
