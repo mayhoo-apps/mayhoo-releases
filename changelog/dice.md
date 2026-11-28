@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.3 (2026-11-28)
+- Farkle: mark the dice that score; button says to pick a scoring die first
+- Video Poker back to the original big layout; Hootzee two-part scorecard with box descriptions, die corners clipped; Puzzle # in the size dropdown; Tracks: darker grass, bold dots and X's
+
 ## 0.2 (2026-11-28)
 - Video Poker back to the original big layout; Hootzee two-part scorecard with box descriptions, die corners clipped; Puzzle # in the size dropdown; Tracks: darker grass, bold dots and X's
 - Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
