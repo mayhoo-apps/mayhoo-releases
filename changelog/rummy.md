@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.110 (2026-11-28)
+- Phase Rummy: sort the hand by number or by color
+
 ## 0.109 (2026-11-28)
 - Video Poker on a Gemini machine with bet chips sliding into the slot; Gin meld area, sort toggle, tap to unselect
 - Fixes: Phase skip picker, DREW tag in Phase and Gin, Crazy Eights suit picker/draw animation/aces low, Video Poker any bet, Pyramid under-waste card in play
