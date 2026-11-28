@@ -2,6 +2,14 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.94 (2026-11-28)
+- Fixes: Phase skip picker, DREW tag in Phase and Gin, Crazy Eights suit picker/draw animation/aces low, Video Poker any bet, Pyramid under-waste card in play
+- Duel: add Snakes (two players or vs the Owl); catalog lists the five new games
+- Casino: add Video Poker (Jacks or Better); menu: lone last tile same size
+- Solitaire: add Pyramid
+- Rummy: add Oklahoma Gin
+- Cards: add Crazy Eights; tiles for the five new games
+
 ## 0.93 (2026-11-28)
 - Cards: add Crazy Eights; tiles for the five new games
 - Puzzles: Circuits is now connect-the-pairs (colored terminals, wires can't cross, fill every square)
