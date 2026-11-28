@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.113 (2026-11-28)
+- Gin: Owl discards by deadwood and the chance unseen cards help the rest of the hand
+- Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
+
 ## 0.112 (2026-11-28)
 - Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
 - Casino: Wise Owl advice in the owl box, like every other game
