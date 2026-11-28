@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.80 (2026-11-28)
+- Casino: Wise Owl advice in the owl box, like every other game
+- Video Poker: Gemini marquee and navy/gold cabinet like the slot machine; Hub refreshes Update badges when an install finishes
+
 ## 0.79 (2026-11-28)
 - Video Poker: Gemini marquee and navy/gold cabinet like the slot machine; Hub refreshes Update badges when an install finishes
 - Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
