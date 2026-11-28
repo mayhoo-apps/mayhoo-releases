@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.59 (2026-11-28)
+- Hub: Updating spinner while an update installs; watch until the new version lands (installer and Play Protect screens can finish after the Hub resumes)
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+
 ## 0.58 (2026-11-28)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
 - Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
