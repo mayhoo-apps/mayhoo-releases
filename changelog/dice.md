@@ -2,6 +2,14 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.2 (2026-11-28)
+- Video Poker back to the original big layout; Hootzee two-part scorecard with box descriptions, die corners clipped; Puzzle # in the size dropdown; Tracks: darker grass, bold dots and X's
+- Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
+- Gin: Owl discards by deadwood and the chance unseen cards help the rest of the hand
+- Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
+- Casino: Wise Owl advice in the owl box, like every other game
+- Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
+
 ## 0.1 (2026-11-28)
 - Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
 - Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
