@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.60 (2026-11-28)
+- Hub 0.60: lists Mayhoo Kids (GitHub builds)
+- Mayhoo Kids 0.1: Go Fish, Memory and Card War with twelve animal friends
+- Hub: Updating spinner while an update installs; watch until the new version lands (installer and Play Protect screens can finish after the Hub resumes)
+
 ## 0.59 (2026-11-28)
 - Hub: Updating spinner while an update installs; watch until the new version lands (installer and Play Protect screens can finish after the Hub resumes)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
