@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.8 (2026-11-28)
+- Left Right Hoot: more than 5 acorns shows 3 and +N
+
 ## 0.7 (2026-11-28)
 - Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
 - Left Right Hoot: out of acorns, one more time around, then you leave the table
