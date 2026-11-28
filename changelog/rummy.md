@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.117 (2026-11-28)
+- Phase Rummy: the Owl plays each turn out 400 ways and says how often you make your phase; +13 per round over the old Owl (phase = 100, minus points left)
+- Rummy 500: the Owl plays each whole turn out (meld, then the best discard) and picks the best average; +13 pts/hand over the old Owl
+
 ## 0.116 (2026-11-28)
 - Rummy 500: the Owl plays each whole turn out (meld, then the best discard) and picks the best average; +13 pts/hand over the old Owl
 - Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
