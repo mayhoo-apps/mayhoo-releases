@@ -2,6 +2,9 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.83 (2026-11-28)
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+
 ## 0.82 (2026-11-28)
 - Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
 - Play: daily closed-testing push script (play_daily.sh, hold list) and track tool; tip jar adds tip_50 and tip_100
