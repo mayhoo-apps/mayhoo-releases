@@ -2,6 +2,15 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.53 (2026-11-28)
+- Duel: add Snakes (two players or vs the Owl); catalog lists the five new games
+- Casino: add Video Poker (Jacks or Better); menu: lone last tile same size
+- Solitaire: add Pyramid
+- Rummy: add Oklahoma Gin
+- Cards: add Crazy Eights; tiles for the five new games
+- Puzzles: Circuits is now connect-the-pairs (colored terminals, wires can't cross, fill every square)
+- Puzzles: Circuits (turn wires so every bulb is in a closed loop from + to -; shorts light nothing; 5x5 to 8x8)
+
 ## 0.52 (2026-11-27)
 - Puzzles: Circuits (turn wires so every bulb is in a closed loop from + to -; shorts light nothing; 5x5 to 8x8)
 - Phase Rummy: after someone goes out, everyone plays until the dealer's turn (dealer plays last); show your own score
