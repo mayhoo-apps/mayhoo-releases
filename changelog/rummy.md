@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.116 (2026-11-28)
+- Rummy 500: the Owl plays each whole turn out (meld, then the best discard) and picks the best average; +13 pts/hand over the old Owl
+- Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
+
 ## 0.115 (2026-11-28)
 - Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
 - Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
