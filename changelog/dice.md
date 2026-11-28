@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.5 (2026-11-28)
+- Left Right Hoot: acorn pot in the middle, bigger Gemini acorns, only the dice you'll roll
+- Left Right Hoot: Gemini tavern table and treasure nest; dice roll on the roller's side of the nest
+
 ## 0.4 (2026-11-28)
 - Left Right Hoot: Gemini tavern table and treasure nest; dice roll on the roller's side of the nest
 
