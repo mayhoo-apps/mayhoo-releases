@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.107 (2026-11-28)
+- Rummy: add Oklahoma Gin
+- Cards: add Crazy Eights; tiles for the five new games
+- Phase Rummy: Discard works while cards are staged in the phase boxes (they go back to the hand)
+
 ## 0.106 (2026-11-28)
 - Phase Rummy: Discard works while cards are staged in the phase boxes (they go back to the hand)
 - Puzzles: Circuits is now connect-the-pairs (colored terminals, wires can't cross, fill every square)
