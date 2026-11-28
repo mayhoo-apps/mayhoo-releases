@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.111 (2026-11-28)
+- Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
+- Phase Rummy: sort the hand by number or by color
+
 ## 0.110 (2026-11-28)
 - Phase Rummy: sort the hand by number or by color
 
