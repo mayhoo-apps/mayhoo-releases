@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.59 (2026-11-28)
+- Video Poker back to the original big layout; Hootzee two-part scorecard with box descriptions, die corners clipped; Puzzle # in the size dropdown; Tracks: darker grass, bold dots and X's
+- Puzzles: numbered puzzles (#1-99999, same number = same puzzle on any phone), Puzzle # entry, Share after solving
+
 ## 0.58 (2026-11-28)
 - Puzzles: numbered puzzles (#1-99999, same number = same puzzle on any phone), Puzzle # entry, Share after solving
 - Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
