@@ -2,6 +2,12 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.97 (2026-11-28)
+- Release all eight apps: Dice listed for Play builds (Hub and every Settings list), tip_50/tip_100; Dice joins the daily Play push
+- Play: daily closed-testing push script (play_daily.sh, hold list) and track tool; tip jar adds tip_50 and tip_100
+- Hand and Foot: sampler for the play-it-out Owl (measuring before wiring it in)
+- Spades: the Owl plays each bid and card out a few hundred ways; +23 team points a hand over the old Owl (+13 from play, +10 from bids)
+
 ## 0.96 (2026-11-28)
 - Spades: the Owl plays each bid and card out a few hundred ways; +23 team points a hand over the old Owl (+13 from play, +10 from bids)
 - Hearts and Euchre: the Owl plays each card (and Euchre bid) out a few hundred ways; Hearts takes ~4 fewer points a hand, Euchre +0.19 team points a hand
