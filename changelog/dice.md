@@ -2,6 +2,10 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.12 (2026-11-28)
+- Farkle: readable 'Farkle ☹️ / 0 pts' panel; slightly bigger scoring guide
+- Farkle: scoring guide on the table; test that farkle rates match the odds
+
 ## 0.11 (2026-11-28)
 - Farkle: scoring guide on the table; test that farkle rates match the odds
 - Farkle: set-aside dice grouped by what scored, each with its points and name
