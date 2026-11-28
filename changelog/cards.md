@@ -2,6 +2,19 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.95 (2026-11-28)
+- Hearts and Euchre: the Owl plays each card (and Euchre bid) out a few hundred ways; Hearts takes ~4 fewer points a hand, Euchre +0.19 team points a hand
+- Phase Rummy: the Owl plays each turn out 400 ways and says how often you make your phase; +13 per round over the old Owl (phase = 100, minus points left)
+- Rummy 500: the Owl plays each whole turn out (meld, then the best discard) and picks the best average; +13 pts/hand over the old Owl
+- Gin: the Owl plays each choice out 400 ways and picks the best average; beats the old Owl by 4.4 pts/hand (Oklahoma) and 3.0 (regular) over 2,000 hands
+- Gin: Owl weighs near-melds less, throws loose high cards early; deadwood label clear of a raised card
+- Gin: Owl discards by deadwood and the chance unseen cards help the rest of the hand
+- Rummy: add regular Gin Rummy; Gin staging area label, deadwood label over the deadwood row
+- Casino: Wise Owl advice in the owl box, like every other game
+- Mayhoo Dice 0.1: Hootzee, Farkle, Shut the Box, Pig and Left Right Hoot; Hub lists it (GitHub builds only)
+- Oklahoma Gin: Owl keeps cards one away from a meld (pairs, suited neighbors)
+- Fixes: Phase skip picker, DREW tag in Phase and Gin, Crazy Eights suit picker/draw animation/aces low, Video Poker any bet, Pyramid under-waste card in play
+
 ## 0.94 (2026-11-28)
 - Fixes: Phase skip picker, DREW tag in Phase and Gin, Crazy Eights suit picker/draw animation/aces low, Video Poker any bet, Pyramid under-waste card in play
 - Duel: add Snakes (two players or vs the Owl); catalog lists the five new games
