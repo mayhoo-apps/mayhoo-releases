@@ -2,6 +2,11 @@
 
 Newest first. The app shows the notes for every version newer than the one you have.
 
+## 0.121 (2026-11-28)
+- Hand and Foot: Hootie plays each choice two trips around the table ahead (100 ways) and scores the table; +183 pts a round over the old advice (3,000 rounds)
+- Mayhoo Kids 0.1: Go Fish, Memory and Card War with twelve animal friends
+- The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
+
 ## 0.120 (2026-11-28)
 - The owl is Hootie: "Hootie says", "Ask Hootie", HOOTIE over the advice box (Jena's name)
 
